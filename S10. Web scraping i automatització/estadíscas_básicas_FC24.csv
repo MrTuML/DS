@@ -1,0 +1,101 @@
+RANK,CARRERA DE,NAC,EQUIPO,POS,GRL,RIT,TIR,PAS,REG,DEF,FÍS
+1,Kylian Mbappé,Francia,Paris SG,DC,91,97,90,80,92,36,78
+2,Alexia Putellas,España,FC Barcelona,MC,91,82,90,91,92,72,78
+3,Erling Haaland,Noruega,Manchester City,DC,91,89,93,66,80,45,88
+4,Kevin De Bruyne,Bélgica,Manchester City,MC,91,72,88,94,87,65,78
+5,Aitana Bonmatí,España,FC Barcelona,MC,90,81,84,83,91,75,73
+6,Lionel Messi,Argentina,Inter Miami CF,SD,90,80,87,90,94,33,64
+7,Sam Kerr,Australia,Chelsea,DC,90,85,88,74,90,42,85
+8,Karim Benzema,Francia,Al Ittihad,SD,90,79,88,83,87,39,78
+9,Thibaut Courtois,Bélgica,Real Madrid,POR,90,85,89,76,93,46,90
+10,Harry Kane,Inglaterra,FC Bayern de Múnich,DC,90,69,93,84,83,49,83
+11,Caroline Graham Hansen,Noruega,FC Barcelona,ED,90,89,86,88,90,47,75
+12,Robert Lewandowski,Polonia,FC Barcelona,DC,90,75,91,80,87,44,84
+13,Mohamed Salah,Egipto,Liverpool,ED,89,89,87,81,88,45,76
+14,Kadidiatou Diani,Francia,OL,ED,89,89,85,83,88,56,77
+15,Mapi León,España,FC Barcelona,DFC,89,75,74,81,76,90,81
+16,Rúben Dias,Portugal,Manchester City,DFC,89,62,39,66,69,89,87
+17,Vini Jr.,Brasil,Real Madrid,EI,89,95,82,78,90,29,68
+18,Rodri,España,Manchester City,MCD,89,58,73,80,80,85,84
+19,Neymar Jr,Brasil,Al Hilal,EI,89,86,83,85,93,37,61
+20,Alex Morgan,Estados Unidos,San Diego Wave,DC,89,83,89,80,88,47,77
+21,Marc-André ter Stegen,Alemania,FC Barcelona,POR,89,86,85,89,91,47,86
+22,Virgil van Dijk,Holanda,Liverpool,DFC,89,78,60,71,72,89,86
+23,Alisson,Brasil,Liverpool,POR,89,86,85,85,89,56,90
+24,Ada Hegerberg,Noruega,OL,DC,89,75,89,77,86,39,76
+25,Casemiro,Brasil,Manchester United,MCD,89,63,75,79,73,89,88
+26,Irene Paredes,España,FC Barcelona,DFC,88,69,51,67,68,89,80
+27,Bruno Fernandes,Portugal,Manchester United,MCO,88,71,86,90,83,69,77
+28,Wendie Renard,Francia,OL,DFC,88,53,67,69,69,91,84
+29,Antoine Griezmann,Francia,Atlético de Madrid,DC,88,80,88,87,88,58,75
+30,Victor Osimhen,Nigeria,Napoli FC,DC,88,90,86,66,83,42,82
+31,Alexandra Popp,Alemania,VfL Wolfsburg,DC,88,73,87,76,82,52,88
+32,Debinha,Brasil,KC Current,MCO,88,84,81,87,91,46,68
+33,Bernardo Silva,Portugal,Manchester City,MC,88,69,78,86,92,70,69
+34,Federico Valverde,Uruguay,Real Madrid,MC,88,88,82,84,84,80,82
+35,Sophia Smith,Estados Unidos,Portland Thorns,DC,88,93,85,78,88,45,82
+36,Ederson,Brasil,Manchester City,POR,88,86,82,91,86,64,86
+37,Guro Reiten,Noruega,Chelsea,EI,88,88,80,86,86,60,63
+38,Joshua Kimmich,Alemania,FC Bayern de Múnich,MCD,88,70,74,88,84,82,79
+39,Jan Oblak,Eslovenia,Atlético de Madrid,POR,88,85,90,78,87,46,86
+40,Christiane Endler,Chile,OL,POR,88,87,82,84,90,42,89
+41,Marie Katoto,Francia,Paris SG,DC,88,83,88,77,84,39,71
+42,Patri Guijarro,España,FC Barcelona,MC,88,78,82,83,86,81,72
+43,Fridolina Rolfö,Suecia,FC Barcelona,LI,87,82,82,82,87,83,80
+44,Luka Modrić,Croacia,Real Madrid,MC,87,72,76,89,87,72,66
+45,Lucy Bronze,Inglaterra,FC Barcelona,LD,87,73,68,80,80,85,88
+46,Frenkie de Jong,Holanda,FC Barcelona,MC,87,82,69,86,87,77,78
+47,Lautaro Martínez,Argentina,Inter,DC,87,80,86,71,85,48,85
+48,Beth Mead,Inglaterra,Arsenal,ED,87,81,84,84,87,67,73
+49,Ewa Pajor,Polonia,VfL Wolfsburg,DC,87,85,89,63,89,21,69
+50,Martin Ødegaard,Noruega,Arsenal,MCO,87,72,81,88,87,61,64
+51,Mike Maignan,Francia,Milán,POR,87,85,82,87,89,51,85
+52,Lena Oberdorf,Alemania,VfL Wolfsburg,MCD,87,58,61,77,76,87,89
+53,Lina Magull,Alemania,FC Bayern München,MCO,87,81,74,84,86,57,68
+54,Marquinhos,Brasil,Paris SG,DFC,87,78,56,75,74,89,80
+55,Gregor Kobel,Suiza,Borussia Dortmund,POR,87,86,84,74,89,44,85
+56,Heung Min Son,República de Corea,Spurs,EI,87,87,88,80,84,42,70
+57,Rose Lavelle,Estados Unidos,OL Reign,MCO,87,86,78,84,87,45,65
+58,Sandra Paños,España,FC Barcelona,POR,87,86,82,84,89,56,87
+59,Gianluigi Donnarumma,Italia,Paris SG,POR,87,90,82,79,89,52,83
+60,Manuel Neuer,Alemania,FC Bayern de Múnich,POR,87,84,85,90,84,49,88
+61,Ousmane Dembélé,Francia,Paris SG,ED,86,93,77,81,87,36,57
+62,Selma Bacha,Francia,OL,LI,86,87,72,84,82,79,78
+63,Mary Earps,Inglaterra,Manchester Utd,POR,86,83,83,83,85,41,85
+64,Bukayo Saka,Inglaterra,Arsenal,ED,86,85,81,79,87,60,70
+65,Jude Bellingham,Inglaterra,Real Madrid,MC,86,76,75,79,85,78,82
+66,Rafael Leão,Portugal,Milán,EI,86,93,80,75,87,27,76
+67,Pedri,España,FC Barcelona,MC,86,78,69,82,88,70,74
+68,Lauren Hemp,Inglaterra,Manchester City,EI,86,90,76,84,87,63,68
+69,Matthijs de Ligt,Holanda,FC Bayern de Múnich,DFC,86,66,61,64,68,85,86
+70,Sandro Tonali,Italia,Newcastle United,MCD,86,84,74,81,81,82,84
+71,Riyad Mahrez,Argelia,Al Ahli,MD,86,79,81,81,89,38,60
+72,Grace Geyoro,Francia,Paris SG,MC,86,77,72,82,82,83,78
+73,Jamal Musiala,Alemania,FC Bayern de Múnich,86,85,10,75,76,91,63,61
+74,Nicolò Barella,Italia,Inter,MC,86,78,78,82,85,78,80
+75,Jill Roord,Holanda,Manchester City,MCO,86,77,84,84,85,52,73
+76,Ronald Araujo,Uruguay,FC Barcelona,DFC,86,79,51,65,62,86,84
+77,Paulo Dybala,Argentina,Roma FC,SD,86,80,85,85,90,40,60
+78,İlkay Gündoğan,Alemania,FC Barcelona,MC,86,62,81,84,86,72,73
+79,Vivianne Miedema,Holanda,Arsenal,DC,86,82,85,70,86,32,81
+80,Sergej Milinković-Savić,Serbia,Al Hilal,MC,86,68,80,82,82,79,86
+81,Khvicha Kvaratskhelia,Georgia,Napoli FC,84,80,14,81,10,87,41,71
+82,Andrew Robertson,Escocia,Liverpool,LI,86,80,61,82,81,81,77
+83,Parejo,España,Villarreal CF,MC,86,49,83,90,80,73,69
+84,Sakina Karchaoui,Francia,Paris SG,LI,86,89,61,82,87,79,65
+85,Sadio Mané,Senegal,Al Nassr,SD,86,85,83,79,87,44,74
+86,Toni Kroos,Alemania,Real Madrid,MC,86,51,80,90,81,70,71
+87,Lindsey Horan,Estados Unidos,OL,MC,86,78,84,86,84,63,78
+88,Éder Militão,Brasil,Real Madrid,DFC,86,85,50,69,71,86,82
+89,Christopher Nkunku,Francia,Chelsea,SD,86,82,81,83,88,62,67
+90,N'Golo Kanté,Francia,Al Ittihad,MCD,86,69,65,73,80,85,77
+91,Kim Little,Escocia,Arsenal,MC,86,76,78,83,88,62,66
+92,Lea Schüller,Alemania,FC Bayern München,DC,86,86,83,70,81,33,73
+93,João Cancelo,Portugal,FC Barcelona,LI,86,81,73,85,84,80,72
+94,Cristiano Ronaldo,Portugal,Al Nassr,DC,86,77,88,75,80,34,74
+95,Trent Alexander-Arnold,Inglaterra,Liverpool,LD,86,76,69,90,79,80,73
+96,Ashley Lawrence,Canadá,Chelsea,LD,86,86,67,82,80,82,78
+97,Mallory Swanson,Estados Unidos,Chicago Red Stars,EI,86,93,82,82,84,42,71
+98,Wojciech Szczęsny,Polonia,Juventus,POR,86,86,83,73,87,49,86
+99,Cristiana Girelli,Italia,Juventus,DC,86,81,85,71,81,46,78
+100,Jack Grealish,Inglaterra,Manchester City,EI,85,76,76,84,88,53,73
